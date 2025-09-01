@@ -4,7 +4,8 @@ This project and others was made a long time ago, so that's why some of the **pr
 
 The picture of this module:
 
-![6374075433](https://github.com/user-attachments/assets/46f888e2-36a6-4392-a3fe-013f6df814a1)
+![orig](https://github.com/user-attachments/assets/be632bb7-b0eb-47a0-ad57-ef68dbdcb89f)
+
 
 The connection to the arduino or others board:
 
